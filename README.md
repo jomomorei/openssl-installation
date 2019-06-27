@@ -9,11 +9,13 @@ openssl的安装流程
 ### 1. 安装ActivePerl
 
 下载地址：https://www.activestate.com/products/activeperl/downloads/
+
 按部就班安装即可。
 
 ### 2.安装openssl
 
 下载地址：http://slproweb.com/products/Win32OpenSSL.html
+
 根据电脑配置选择64位或32位。
 
 配置环境变量：把openssl安装路径bin的路径（如 C:\OpenSSL-Win64\bin）添加到系统环境变量Path中。
